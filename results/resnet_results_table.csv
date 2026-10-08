@@ -1,0 +1,7 @@
+Metric,Result
+Training Accuracy,1.0
+Validation Accuracy,1.0
+Test Accuracy,1.0
+Precision (macro),1.0
+Recall (macro),1.0
+F1-score (macro),1.0

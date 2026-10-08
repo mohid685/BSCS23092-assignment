@@ -1,0 +1,6 @@
+Metric,Result
+Training Loss,0.1194
+Validation Loss,0.2457
+Test Dice,0.9264
+Test IoU,0.8655
+Test Pixel Accuracy,0.9477

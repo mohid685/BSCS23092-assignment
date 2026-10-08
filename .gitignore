@@ -1,0 +1,6 @@
+*.pth
+*.tgz
+*.tar.gz
+flowers_subset/
+pets_subset/
+checkpoints/
